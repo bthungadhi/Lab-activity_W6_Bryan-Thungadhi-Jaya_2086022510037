@@ -1,0 +1,14 @@
+[
+  { "id": "L001", "bookId": "B001", "studentId": "Bryan", "borrowDate": "2026-10-20", "dueDate": "2026-11-03", "returnDate": null },
+  { "id": "L002", "bookId": "B002", "studentId": "Alicia", "borrowDate": "2026-10-05", "dueDate": "2026-10-19", "returnDate": null },
+  { "id": "L003", "bookId": "B003", "studentId": "Jonathan", "borrowDate": "2026-09-20", "dueDate": "2026-10-04", "returnDate": null },
+  { "id": "L004", "bookId": "B004", "studentId": "Mellinda", "borrowDate": "2026-08-25", "dueDate": "2026-09-08", "returnDate": null },
+  { "id": "L005", "bookId": "B005", "studentId": "Budi", "borrowDate": "2026-04-01", "dueDate": "2026-04-15", "returnDate": null },
+  { "id": "L006", "bookId": "B006", "studentId": "Sinta", "borrowDate": "2026-09-01", "dueDate": "2026-09-15", "returnDate": "2026-10-10" },
+  { "id": "L007", "bookId": "B007", "studentId": "Rizky", "borrowDate": "2026-10-01", "dueDate": "2026-10-15", "returnDate": null },
+  { "id": "L008", "bookId": "B008", "studentId": "Dewi", "borrowDate": "2026-09-15", "dueDate": "2026-09-29", "returnDate": null },
+  { "id": "L009", "bookId": "B009", "studentId": "Andi", "borrowDate": "2026-08-10", "dueDate": "2026-08-24", "returnDate": null },
+  { "id": "L010", "bookId": "B010", "studentId": "Rina", "borrowDate": "2026-07-20", "dueDate": "2026-08-03", "returnDate": null },
+  { "id": "L011", "bookId": "B011", "studentId": "Fajar", "borrowDate": "2026-06-05", "dueDate": "2026-06-19", "returnDate": null },
+  { "id": "L012", "bookId": "B012", "studentId": "Nina", "borrowDate": "2026-05-15", "dueDate": "2026-05-29", "returnDate": null }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": "B001", "title": "Clean Code", "author": "Robert C. Martin", "replacementPrice": 150000 },
+  { "id": "B002", "title": "The Pragmatic Programmer", "author": "Andrew Hunt", "replacementPrice": 180000 },
+  { "id": "B003", "title": "Introduction to Algorithms", "author": "Thomas H. Cormen", "replacementPrice": 450000 },
+  { "id": "B004", "title": "Design Patterns", "author": "Erich Gamma", "replacementPrice": 320000 },
+  { "id": "B005", "title": "Database System Concepts", "author": "Abraham Silberschatz", "replacementPrice": 400000 },
+  { "id": "B006", "title": "Accounting Principles", "author": "Jerry J. Weygandt", "replacementPrice": 275000 },
+  { "id": "B007", "title": "Flutter in Action", "author": "Eric Windmill", "replacementPrice": 210000 },
+  { "id": "B008", "title": "Structure and Interpretation of Computer Programs", "author": "Harold Abelson", "replacementPrice": 300000 },
+  { "id": "B009", "title": "The Art of Computer Programming", "author": "Donald E. Knuth", "replacementPrice": 500000 },
+  { "id": "B010", "title": "Operating System Concepts", "author": "Abraham Silberschatz", "replacementPrice": 350000 },
+  { "id": "B011", "title": "Computer Networks", "author": "Andrew S. Tanenbaum", "replacementPrice": 280000 },
+  { "id": "B012", "title": "Artificial Intelligence: A Modern Approach", "author": "Stuart Russell", "replacementPrice": 420000 },
+  { "id": "B013", "title": "Computer Organization and Design", "author": "David A. Patterson", "replacementPrice": 300000 },
+  { "id": "B014", "title": "The C Programming Language", "author": "Brian W. Kernighan", "replacementPrice": 200000 },
+  { "id": "B015", "title": "Introduction to the Theory of Computation", "author": "Michael Sipser", "replacementPrice": 350000 }
+]
